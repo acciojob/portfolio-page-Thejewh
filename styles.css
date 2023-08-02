@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
